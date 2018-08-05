@@ -1,12 +1,11 @@
 package Problems;
 
-import sun.management.snmp.resources.snmpagent;
 
 public class containsTwice {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println(containTwice("Marii"));
+		
+		System.out.println(containTwice("Hello"));
 		
 
 	}
@@ -20,5 +19,4 @@ public class containsTwice {
 		}
 		return false;
 	}
-
 }
